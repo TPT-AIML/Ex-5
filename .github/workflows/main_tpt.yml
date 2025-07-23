@@ -53,4 +53,4 @@ jobs:
           app-name: 'Tpt'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A60179A7C69F4484B929760FA5A65644 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA64A5C01E334331877DF4EA4D133674 }}
